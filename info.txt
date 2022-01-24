@@ -1,4 +1,3 @@
 tralala
 pesho // local change
 modified
-remote change // comment line
